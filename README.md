@@ -17,5 +17,3 @@ ChatApp is a messaging project that offers the following features:
 **Back-end:** Laravel, Node
 
 **Database:** MySQL
-
-Translated with DeepL.com (free version)
